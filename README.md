@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Balint Nemeth</h1>
+<h1 align="center">Hi, I'm Németh Bálint</h1>
 <h3 align="center">I am a Computer Engineer, currently playing with Full-Stack Web dev and Embedded Systems</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aranyalma2&label=Profile%20views&color=0e75b6&style=flat" alt="Aranyalma2" /> </p>
 
