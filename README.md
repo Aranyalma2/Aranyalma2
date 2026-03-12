@@ -2,11 +2,9 @@
 <h3 align="center">I am a Computer Engineer, currently playing with Full-Stack Web dev and Embedded Systems</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aranyalma2&label=Profile%20views&color=0e75b6&style=flat" alt="Aranyalma2" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aranyalma2&theme=" alt="Aranyalma2" /></a> </p>
-
 - 🔭 I’m currently working on [Samsung HVAC Cascade Controller](https://nemeth-balint.remoteconnect.hu/projects/samsung-cascade-controller)
-- 🔭I’m currently maintaining and improve [WireDeck](https://github.com/SzomorXVigyor/WireDeck)
-- 🤝 I usually share my tools for closed project, such as [Samsung NASA Communiction lib](https://github.com/Aranyalma2/SamsungNASA-AVR)
+- 🔭I’m currently maintaining and improving [WireDeck](https://github.com/SzomorXVigyor/WireDeck)
+- 🤝 I usually share my tools for closed project too, such as [Samsung NASA Communiction lib](https://github.com/Aranyalma2/SamsungNASA-AVR), or [Samsung NASA Sniffer](https://github.com/Aranyalma2/samsung-nasa-sniffer)
 - 🌱 I’m currently learning **Vue and NestJS**
 - 💬 Ask me about **Esp32, Samsung HVAC integration**
 - 📫 How to reach me **nemeth.balint@remoteconnect.hu**
